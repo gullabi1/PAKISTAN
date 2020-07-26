@@ -105,7 +105,7 @@ WhatsApp: 0544145675
 \033[1;96mAuthor  \033[1;93m: \033[1;92m sajid khan
 \033[1;96mInstagram \033[1;93m: \033[1: itx_gullabi_yr
 \033[1;96mFacebook  \033[1;93m: \033[1: sajid.khan3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sajidkhan/gullabijanan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sajidkhan/PAKISTAN
 \033[1;91m======================================="""
 
 def tik():
@@ -152,7 +152,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92m sajid khan
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_gullabi_yr
 \033[1;96mFacebook  \033[1;93m: \033[1;92m sajid.khan3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sajidkhan/gullabijanan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sajidkhan/PAKISTAN
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
